@@ -1,4 +1,4 @@
-// 28) Ler um vetor de números inteiros e imprimir quantos são pares e quantos são ímpares.
+// 28)  Ler um vetor de números inteiros e imprimir quantos são pares e quantos são ímpares.
 
 function calcular(numeros) {
     const numerospares = numeros.filter(num => num % 2 == 0)

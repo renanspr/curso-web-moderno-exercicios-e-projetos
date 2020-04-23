@@ -1,4 +1,4 @@
-// 24) Crie um programa que imprima 11 vezes a frase " Hello World!" utilizando uma estrutura de repetição while
+// 24)  Crie um programa que imprima 11 vezes a frase " Hello World!" utilizando uma estrutura de repetição while
 
 var i = 0
 
